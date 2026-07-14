@@ -1,7 +1,2 @@
-*
-!scripts/
-!scripts/**
-!.gitignore
-!README.md
 apktool.cmd
-*.jar
+apktool.jar
